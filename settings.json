@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "KunyhoStrengthSMP.aternos.me",
+    "port": 33802,
     "version": "",
     "try-creative": false
   },
