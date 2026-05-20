@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AfkBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "KunyhoStrengthSMP.aternos.me",
-    "port": 59948,
+    "ip": "KyniskovoSrengthSMP.aternos.me",
+    "port": 53691,
     "version": "",
     "try-creative": false
   },
